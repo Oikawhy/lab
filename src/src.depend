@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1636464058 source:c:\users\student\uml_projects\um11\src\main.cpp
+	"IntData.h"
+
+1636537717 c:\users\student\uml_projects\um11\src\intdata.h
+	"BaseData.h"
+
+1636495130 c:\users\student\uml_projects\um11\src\basedata.h
+	<cstdio>
+
+1636458553 source:c:\users\student\uml_projects\um11\src\basedata.cpp
+	"BaseData.h"
+
+1636528718 source:c:\users\student\uml_projects\um11\src\intdata.cpp
+	"IntData.h"
+	<iostream>
+
+1636528527 source:c:\users\student\uml_projects\um11\src\test_data.cpp
+	"IntData.h"
+	"DoubleData.h"
+	<iostream>
+
+1636528718 source:c:\users\student\uml_projects\um11\src\doubledata.cpp
+	"DoubleData.h"
+	<iostream>
+
+1636537717 c:\users\student\uml_projects\um11\src\doubledata.h
+	"BaseData.h"
+

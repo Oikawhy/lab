@@ -1,0 +1,15 @@
+window_sizes 1366 705 320 1041 555 104
+
+diagrams
+  active  classdiagram_ref 128002 // ClassDiagram1
+    1041 555 100 A4 72 0
+end
+show_stereotypes
+selected class_ref 141314 // DoubleArray
+open
+  class_ref 128002 // BaseData
+  class_ref 128130 // IntData
+  deploymentview_ref 128002 // DeploymentView1
+end
+end
+verbose
